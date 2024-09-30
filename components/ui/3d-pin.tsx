@@ -12,7 +12,7 @@ export const PinContainer = ({
   containerClassName,
 }: {
   children: React.ReactNode;
-  title?: string;
+    title: string;
   href?: string;
   className?: string;
   containerClassName?: string;
